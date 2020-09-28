@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_58872_needit_needit" version="2" view="">
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-08-04 10:45:38</sys_created_on>
+            <sys_id>7bfc02ab2fd2101019d6d7a72799b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-08-04 10:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-08-04 10:45:38</sys_created_on>
+            <sys_id>fbfc02ab2fd2101019d6d7a72799b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-08-04 10:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-08-04 10:45:38</sys_created_on>
+            <sys_id>7ffc02ab2fd2101019d6d7a72799b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-08-04 10:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-08-04 10:45:38</sys_created_on>
+            <sys_id>fffc02ab2fd2101019d6d7a72799b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-08-04 10:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-08-04 10:45:38</sys_created_on>
+            <sys_id>73fc02ab2fd2101019d6d7a72799b619</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-08-04 10:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-08-04 10:45:38</sys_created_on>
+            <sys_id>f3fc02ab2fd2101019d6d7a72799b619</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-08-04 10:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_58872_needit_needit</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>528e41474f665300874e8020a310c77e</sys_id>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-09-21 10:34:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>99b25261db7f1f004f035d00cf961988</instance_id>
+        <instance_name>dev69360</instance_name>
+        <name>sys_ui_list_x_58872_needit_needit_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_58872_needit_needit" version="2" view=""><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>number</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>system</sys_created_by><sys_created_on>2020-08-04 10:45:38</sys_created_on><sys_id>7bfc02ab2fd2101019d6d7a72799b618</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-08-04 10:45:38</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>priority</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>system</sys_created_by><sys_created_on>2020-08-04 10:45:38</sys_created_on><sys_id>fbfc02ab2fd2101019d6d7a72799b618</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-08-04 10:45:38</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>state</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>system</sys_created_by><sys_created_on>2020-08-04 10:45:38</sys_created_on><sys_id>7ffc02ab2fd2101019d6d7a72799b618</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-08-04 10:45:38</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>assigned_to</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>system</sys_created_by><sys_created_on>2020-08-04 10:45:38</sys_created_on><sys_id>fffc02ab2fd2101019d6d7a72799b618</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-08-04 10:45:38</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>short_description</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>system</sys_created_by><sys_created_on>2020-08-04 10:45:38</sys_created_on><sys_id>73fc02ab2fd2101019d6d7a72799b619</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-08-04 10:45:38</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>sys_class_name</element><list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">77fc02ab2fd2101019d6d7a72799b618</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>system</sys_created_by><sys_created_on>2020-08-04 10:45:38</sys_created_on><sys_id>f3fc02ab2fd2101019d6d7a72799b619</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-08-04 10:45:38</sys_updated_on></sys_ui_list_element><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_58872_needit_needit</name><parent/><position/><relationship/><sum>false</sum><sys_class_name/><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>528e41474f665300874e8020a310c77e</sys_id><sys_mod_count/><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2020-09-21 10:34:07</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1194219810</payload_hash>
+        <record_name>Task</record_name>
+        <reverted_from/>
+        <source>94470f842fb2101019d6d7a72799b6e4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 10:34:07</sys_created_on>
+        <sys_id>8ba615472f57901019d6d7a72799b662</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174b03a58d50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 10:34:07</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>07a61547e457901023d38fcc03819662</update_guid>
+        <update_guid_history>07a61547e457901023d38fcc03819662:-1194219810,72378b401af21010a64555a908ad9a13:0,c6e64f0011f210104a697cc932f842f8:-1194219810,ff534b8c63b21010fe8fdd4088800598:0,dd134f4cf9b21010a9a42641f5aaf782:-1194219810,465c5b79e8225010b2355c516c34ff24:0,344c177919225010eb0bccc5ec458994:1777393637,f04c177917225010dab1b431913a4190:-1194219810,ead88f3d96ee101045324d1e6c19de65:43844838</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 11:45:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>2d1e6f4354e44162b21c7eae6568eef1</sys_id>
+        <sys_metadata>2f3969dd2faf101019d6d7a72799b6a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">9ed8a9dd2faf101019d6d7a72799b6eb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_58872_needit_needit_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_58872_needit_needit_null">8ba615472f57901019d6d7a72799b662</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 11:45:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
